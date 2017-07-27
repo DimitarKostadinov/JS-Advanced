@@ -1,0 +1,9 @@
+{
+  "name": "Test22",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "latest",
+    "jsdom-global": "latest",
+    "jquery": "latest"
+  }
+}
